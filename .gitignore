@@ -34,3 +34,6 @@ vignettes/*.pdf
 
 # API keys
 api-keys.R
+
+#API key
+api-key.R
